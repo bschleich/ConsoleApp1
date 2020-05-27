@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub and World");
-            Console.WriteLine("Working with the master branch on VSC on MacOS...");
+            Console.WriteLine("Working with the master branch on the HP...");
             Console.ReadKey();
         }
     }
